@@ -1,29 +1,10 @@
 {
   "streams": [
     {
-      "title": "asfqafsa",
-      "description": "faffasf",
+      "title": "Striimi",
+      "description": "LOL",
+      "userId": "109940564582135636947",
       "id": 1
-    },
-    {
-      "title": "other stream",
-      "description": "heres some stream",
-      "id": 2
-    },
-    {
-      "title": "other stream",
-      "description": "heres some stream",
-      "id": 3
-    },
-    {
-      "title": "fsdfsdfds",
-      "description": "dfsdgdafgsäää",
-      "id": 4
-    },
-    {
-      "title": "safasf",
-      "description": "agafyyyyyyyyyyy",
-      "id": 7
     }
   ]
 }
